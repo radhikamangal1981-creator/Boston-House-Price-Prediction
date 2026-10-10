@@ -4,7 +4,7 @@ A machine learning project that predicts median housing prices in Boston using k
 
 🔗 **Live demo:** https://house-price-prediction-44.streamlit.app/
 
-<img width="400" height="250" alt="image" src="https://github.com/user-attachments/assets/9a623d39-43ac-467d-8cf1-8b1b7bc7dca7" />
+<img width="600" height="350" alt="image" src="https://github.com/user-attachments/assets/9a623d39-43ac-467d-8cf1-8b1b7bc7dca7" />
 
 
 
